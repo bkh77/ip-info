@@ -1,0 +1,13 @@
+{
+    "title":"This service will give you information about IP addresses",
+    "search":"Search",
+    "placeholder":"Enter any ip address",
+    "result":"Result",
+    "address":"Address",
+    "capital":"Capital",
+    "current_time":"Current time",
+    "currency":"Currency",
+    "connection":"Connection",
+    "calling_code":"Calling code",
+    "languages":"Languages"
+}
